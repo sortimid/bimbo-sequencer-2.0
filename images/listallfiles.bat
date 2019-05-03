@@ -1,0 +1,1 @@
+dir /b /s /A-D /o:gn>list.txt
